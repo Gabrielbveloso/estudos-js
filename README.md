@@ -1,1 +1,1 @@
-# Estudos de JavaScript
+# Jornada full Stack
