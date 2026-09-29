@@ -1,1 +1,1 @@
-# Meus estudos de JavaScript
+# Jornada full Stack
