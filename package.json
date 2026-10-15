@@ -21,5 +21,8 @@
   "homepage": "https://github.com/Gabrielbveloso/estudos-js#readme",
   "dependencies": {
     "chalk": "^6.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^7.0.2"
   }
 }
